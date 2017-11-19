@@ -1,0 +1,2 @@
+helloWorld:
+	dmcs helloWorld.cs
